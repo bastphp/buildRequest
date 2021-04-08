@@ -1,5 +1,5 @@
 {
-    "name": "liuguang/build-request",
+    "name": "dashan/build-request",
     "description": "build request to access api",
     "type": "library",
     "require": {
@@ -9,7 +9,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "phper-liuguang",
+            "name": "liuguang",
             "email": "fmj_lg@163.com"
         }
     ],
