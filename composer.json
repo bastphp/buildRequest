@@ -1,5 +1,5 @@
 {
-    "name": "dashan/build-request",
+    "name": "bastphp/build-request",
     "description": "build request to access api",
     "type": "library",
     "require": {
